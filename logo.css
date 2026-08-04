@@ -1,0 +1,15 @@
+.fox-logo {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 10px;
+  background: #fff0dc;
+  box-shadow: inset 0 0 0 1px #f1b667;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.mini-fox {
+  font-size: 17px;
+}
